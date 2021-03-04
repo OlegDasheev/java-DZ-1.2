@@ -8,8 +8,8 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-1. https://github.com/OlegDasheev/java-DZ-1.2/issues/1
-1. https://github.com/OlegDasheev/java-DZ-1.2/issues/2
+1. [При вводе валидного значения в приложении Credit Card Number Validator выходит Fail](https://github.com/OlegDasheev/java-DZ-1.2/issues/1)
+1. [При вводе валидного значения в приложении Credit Card Number Validator выходит Fail](https://github.com/OlegDasheev/java-DZ-1.2/issues/2)
 
 **Описание процесса тестирования**
 
